@@ -75,9 +75,8 @@ image::media/creation-success.png[Packaging finished]
 The generated `.sapk` file is unprotected at this point of time and can be read without any restrictions. To protect the intellectual property of the application, it is advised to protect the source code of the application before deploying it to devices, see: <<Protecting Intellectual Property>>.
 ====
 
-//TODO: Add link to sentio creator
 === Deployment
-Deployment can be done either directly via the *SICK Sentio Creator* (see above warning) by importing the `.sapk` file, or by uploading it to the link:https://apppool.cloud.sick.com/[SICK AppPool] for distribution first. 
+Deployment can be done either directly via the link:https://www.sick.com/br/en/catalog/products/digital-services-and-software/engineering-tools/sick-creator/c/g622676[*SICK Sentio Creator*] (see above warning) by importing the `.sapk` file, or by uploading it to the link:https://apppool.cloud.sick.com/[SICK AppPool] for distribution first. 
 
 The second option is advised as it supports proper version control of SAPKs and allows the `.sapk`s sourcecode to be protected during upload.
 

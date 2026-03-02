@@ -67,8 +67,7 @@ For more information about the different editors, please refer to the xref:../..
 
 Every type of file can be created by right-clicking the corresponding folder in the workspace view and selecting `New File`. The file extension must be correct, so that the appropriate editor can be used.
 
-//TODO: change command after renaming
-For Flow files there is also an additional command to create a new flow using a visual dialog: `SICK AppSpace: New Flow`
+For Flow files there is also an additional xref:../../Chapter_4-Misc/4.1-Commands/Commands.adoc[command] to create a new flow using a visual dialog: `SICK App Designer: New Flow`
 
 === Deployment
 
@@ -105,7 +104,7 @@ image::media/re-upload.png[Reupload Apps from Device]
 * *Keyboard shortcut:* The keyboard shortcut `Ctrl+F5` can be used to upload a user defined selection of apps to the device.
 
 * *Command Palette:* There are several commands available in the command palette (`Ctrl+Shift+P`) to achive the same functionality as described above. +
-Search for `SICK AppSpace: Upload` to find the available commands.
+Search for `SICK App Designer: Upload` to find the available commands.
 
 // footer
 [cols="<,^,>", frame=none, grid=none]

@@ -2,7 +2,6 @@
 
 //footer: navigation
 == Editor
-//TODO: Renew screenshot as soon as new icons are available
 image::media/editor.png[Editor area] 
 The Editor is located in the center of VSCode and is where users spend most of their time creating and modifying application code. After installing the *SICK App Designer* extension, new features and tools will be integrated into the editor to enhance the development experience.
 

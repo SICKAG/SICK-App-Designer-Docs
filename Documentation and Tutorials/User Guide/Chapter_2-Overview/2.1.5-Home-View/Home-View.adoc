@@ -5,19 +5,16 @@
 
 The Home View consists of several sections that provide quick access to important features and information.
 
-//TODO: Renew screenshot as soon as new icons are available
 image::media/home-view.png[Home View] 
 
 === Account
 Here users can sign in to their SICK ID account to access the full feature scope of the *SICK App Designer*.
 
 === Quick actions
-//TODO: link commands
 * *Settings* - Opens the settings for the *SICK App Designer* extension.
-* *Commands* - Opens a list of all available commands for the *SICK App Designer* extension.
+* *Commands* - Opens a list of all available xref:../../Chapter_4-Misc/4.1-Commands/Commands.adoc[commands] for the *SICK App Designer* extension.
 
 === Documentation
-//TODO: link troubleshooting and sample apps
 * *Release notes* - Links to *SICK App Designer* release notes on GitHub.
 * *Troubleshooting* - Links to the troubleshooting section of the *SICK App Designer* documentation.
 * *User documentation* - Links to User documentation of the *SICK App Designer* on GitHub.

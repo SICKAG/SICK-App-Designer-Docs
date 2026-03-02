@@ -5,7 +5,6 @@ This chapter provides an overview of the SICK App Designer, its features, and it
 ---
 
 == Components
-//TODO: Renew screenshot as soon as new icons are available
 // screenshot
 image::media/components.png[Components] 
 // mockup like an ifixit guide with a lot of components (image with parts marked in different colors and a legend below)

@@ -2,7 +2,6 @@
 
 //footer: navigation
 == Explorer
-//TODO: Renew screenshot as soon as new icons are available
 image::media/explorer.png[VSCode Explorer view] 
 In the built-in Explorer view of VSCode, users can navigate through their project files and folders.
 

@@ -4,7 +4,6 @@
 == Device List
 The device list provides an overview of all available and unavailable SICK programmable devices. It allows users to easily manage devices, view their status, and perform a variety of actions on them.
 
-//TODO: Renew screenshot as soon as new icons are available
 image::media/device-list.png[Device List]
 
 === Device List States
@@ -26,7 +25,6 @@ a| image::media/more-actions.png[More Actions] a| Show more actions:
 |===
 
 *More actions:*
-//TODO: link device filesystem docu
 |===
 | Add device filesystem... | Attaches the filesystem of all devices to the VSCode Explorer.
 |===

@@ -23,7 +23,7 @@ Though we strive to provide a robust and reliable tool, users may occasionally e
 |None
 
 |Building SAPK fails
-|Deploying apps to a device or building SAPK fails. In the SICK AppSpace Log output channel a message shows: `Failed to build msdd`. This is caused by a corrupted UIBuilder control-library.
+|Deploying apps to a device or building SAPK fails. In the SICK App Designer Log output channel a message shows: `Failed to build msdd`. This is caused by a corrupted UIBuilder control-library.
 |1. Close VS Code. +
 2. Delete `%APPDATA%\SICK\AppSpace\ui-builder\control-library\<version>` (e.g. `5.0.2`). +
 3. Restart VS Code (UIBuilder reinstalls the control-library; takes a moment.)
@@ -63,7 +63,7 @@ Though we strive to provide a robust and reliable tool, users may occasionally e
 |Use built-in UI-Builder functionality.
 
 |No log output for broken MSDD builds
-|No error log in OUTPUT > SICK AppSpace Build if `.msdd` build breaks.
+|No error log in OUTPUT > SICK App Designer Build if `.msdd` build breaks.
 |Open Help > Toggle Developer Tools to view UI logs.
 
 |App not updated though build process changed

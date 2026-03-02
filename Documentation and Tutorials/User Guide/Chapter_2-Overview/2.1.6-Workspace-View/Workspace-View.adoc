@@ -4,7 +4,6 @@
 == Workspace View
 In the workspace view all your workspaces and projects with their respective metadata are listed. You can create, and manage your projects from here.
 
-//TODO: Renew screenshot as soon as new icons are available
 image::media/workspace-view.png[Workspace View]
 
 === Workspace Actions

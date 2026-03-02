@@ -2,7 +2,6 @@
 
 //footer: navigation
 == Sidebar
-//TODO: Renew screenshot as soon as new icons are available
 image::media/sidebar.png[Sidebar with SICK App Designer icon] 
 The Sidebar is located on the very left of VSCode and contains quick access to various VSCode features and extensions. After installing the *SICK App Designer* extension, a new icon will appear in the sidebar that provides access to the main features of the extension.
 
