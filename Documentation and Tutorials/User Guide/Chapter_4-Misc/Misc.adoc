@@ -1,0 +1,19 @@
+= SICK App Designer - Miscellaneous
+
+This chapter provides an miscellaneous collection of topics related to the SICK App Designer.
+
+---
+
+== Commands
+The *SICK App Designer* extension adds several commands to the VSCode command palette. You can access the command palette by pressing `Ctrl+Shift+P` and typing the desired command name.
+For a full list of available commands see: xref:./4.1-Commands/Commands.adoc[Commands]
+
+== Troubleshooting
+Though we strive to provide a robust and reliable tool, users may occasionally encounter issues while using the *SICK App Designer*. If you encounter any issue feel free to check out our Troubleshooting guide: xref:./4.2-Troubleshooting/Troubleshooting.adoc[Troubleshooting] or contact our support.
+
+
+---
+[cols="<,^,>", frame=none, grid=none]
+|===
+|xref:../Chapter_3-App_Development/App-Development.adoc[Back: App Development]|xref:../User-Guide.adoc[Back to User Guide]|
+|===

@@ -1,0 +1,108 @@
+= SICK App Designer - Miscellaneous
+
+== Commands
+The *SICK App Designer* extension adds several commands to the VSCode command palette. You can access the command palette by pressing `Ctrl+Shift+P` and typing the desired command name.
+
+=== Available commands:
+
+|===
+|SICK App Designer: Activate Device Monitor
+|SICK App Designer: Add Device Filesystem to Workspace
+|SICK App Designer: Add Group to This Block
+|SICK App Designer: Add New Devices to the Device List
+|SICK App Designer: Add New Enum Choice
+|SICK App Designer: Add New Method
+|SICK App Designer: Add New Struct Variable
+|SICK App Designer: Add New User Type
+|SICK App Designer: Add New Variable
+|SICK App Designer: Change Device Selection
+|SICK App Designer: Change Telemetry Settings
+|SICK App Designer: Change UserLevel
+|SICK App Designer: Clean All Build Artifacts
+|SICK App Designer: Clean Build Artifacts
+|SICK App Designer: Clean Project Build Artifacts
+|SICK App Designer: Clear Device List Cache
+|SICK App Designer: Create API Documentation
+|SICK App Designer: Create SAPK App Package
+|SICK App Designer: Deactivate Device Monitor
+|SICK App Designer: Delete Samples
+|SICK App Designer: Delete This Item
+|SICK App Designer: Delete This Manifest File
+|SICK App Designer: Disable CodeLens for Parameter Editor
+|SICK App Designer: Disable Sample Import
+|SICK App Designer: Disable Tree View for Parameter Editor
+|SICK App Designer: Download Apps
+|SICK App Designer: Enable CodeLens for Parameter Editor
+|SICK App Designer: Enable Sample Import
+|SICK App Designer: Enable Tree View for Parameter Editor
+|SICK App Designer: Export
+|SICK App Designer: Export Apps
+|SICK App Designer: Generate a Starter Template for the Parameter.cid.xml File
+|SICK App Designer: Hide Samples in Explorer/Workspaces
+|SICK App Designer: Import Apps
+|SICK App Designer: Import CSK Module
+|SICK App Designer: Import Samples
+|SICK App Designer: Jump to Code
+|SICK App Designer: Jump to Manifest
+|SICK App Designer: Manually Add Device
+|SICK App Designer: New Flow
+|SICK App Designer: New Project
+|SICK App Designer: Open Device Monitor Settings
+|SICK App Designer: Open Device User Interfaces
+|SICK App Designer: Open Project Folder
+|SICK App Designer: Refresh 2D/3D Viewer
+|SICK App Designer: Refresh App Model Configuration
+|SICK App Designer: Refresh Device List
+|SICK App Designer: Refresh Device Model Configuration
+|SICK App Designer: Remove All Apps
+|SICK App Designer: Remove App
+|SICK App Designer: Remove Device
+|SICK App Designer: Reupload Projects on Device
+|SICK App Designer: Revoke Consent to Telemetry Data Collection
+|SICK App Designer: Revoke Consent to the License Agreement
+|SICK App Designer: Run App
+|SICK App Designer: Save Device Model of Selected Device for Offline Usage
+|SICK App Designer: Scan for Devices
+|SICK App Designer: Set Device Alias
+|SICK App Designer: Show Device Console
+|SICK App Designer: Show Logs (File)
+|SICK App Designer: Show Logs (UI)
+|SICK App Designer: Show Samples in Explorer/Workspaces
+|SICK App Designer: Show SICK App Designer 2D/3D Viewer in Editor Area
+|SICK App Designer: Show Welcome View
+|SICK App Designer: Sign In with SICK ID
+|SICK App Designer: Start All Apps
+|SICK App Designer: Stop All Apps
+|SICK App Designer: Stop App
+|SICK App Designer: Stop Watching All Projects
+|SICK App Designer: Stop Watching Project
+|SICK App Designer: Stop Watching Projects
+|SICK App Designer: Unpack legacy MSDD
+|SICK App Designer: Upload All Projects in Workspace to Device
+|SICK App Designer: Upload Project to Device
+|SICK App Designer: Upload Project to Device
+|SICK App Designer: Watch All Projects
+|SICK App Designer: Watch Project
+|SICK App Designer: Watch Projects
+|SICK App Designer: Zip Log Files
+|SICK App Designer Lua Toolbox: Generate Uses for a Specific App
+|SICK App Designer Lua Toolbox: Generate Uses for All Apps
+|SICK App Designer Lua Toolbox: Restart Language Server
+|SICK App Designer Lua Toolbox: Show Logs (Directory)
+|SICK App Designer UI-Builder: Show UI-Builder Logs (File)
+|SICK App Designer UI-Builder: Show UI-Builder Logs (UI)
+|SICK AppEngine Emulator: Open config
+|SICK AppEngine Emulator: Reset emulator home directory
+|SICK AppEngine Emulator: Show emulator-extension logs (File)
+|SICK AppEngine Emulator: Show emulator-extension logs (UI)
+|SICK AppEngine Emulator: Show output channel
+|SICK AppEngine Emulator: Start
+|SICK AppEngine Emulator: Stop
+|===
+
+// footer
+[cols="<,^,>", frame=none, grid=none]
+|===
+||xref:../Misc.adoc[Back to Miscellaneous]|
+xref:../4.2-Troubleshooting/Troubleshooting.adoc[Next: Troubleshooting]
+|===

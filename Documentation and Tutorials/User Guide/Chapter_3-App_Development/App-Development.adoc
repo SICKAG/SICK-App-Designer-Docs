@@ -1,0 +1,27 @@
+= SICK App Designer - App Development
+
+This chapter provides the full toolchain to create, develop, debug and deploy applications using the SICK App Designer.
+
+---
+
+A typical development cycle consists of the following steps:
+
+1. Create a new sensor application
+2. Edit the application code and resources
+3. Deploy the application to a connected test device
+4. Debug the application if necessary
+5. Package the application for distribution
+
+All steps of this cycle are described in the following sections:
+
+* xref:3.1-New-Sensor-App/New-Sensor-App.adoc[New Sensor App]
+* xref:3.2-Editing/Editing.adoc[Editing]
+* xref:3.3-Debugging/Debugging.adoc[Debugging]
+* xref:3.4-Deployment/Deployment.adoc[Packaging and Deployment]
+
+---
+[cols="<,^,>", frame=none, grid=none]
+|===
+|xref:../Chapter_2-Overview/Overview.adoc[Back: Overview]|xref:../User-Guide.adoc[Back to User Guide]|
+xref:../Chapter_4-Misc/Misc.adoc[Next: Miscellaneous]
+|===
