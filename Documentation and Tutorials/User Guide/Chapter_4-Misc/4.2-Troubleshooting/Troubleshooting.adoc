@@ -92,7 +92,7 @@ Linux: `~/.config/SICK/AppSpace/MaxwellConnect/instances/scx-runtime-linux-x64-1
 3. Restart VS Code.
 
 |Device list empty after update
-|Update of Device connectivity causes loss of device list/configuration. Migration from SDK 1.3.0 to ≥ 1.4.0 not supported.
+|Update of Device connectivity causes loss of device list/configuration.
 |Populate device list again.
 
 |WSL: Devices are not reachable
@@ -134,7 +134,7 @@ WSLENV=NASRT_ENABLE_USB
 |No output printed after (re-adding) device
 |Steps: 1. View device console 2. Remove device 3. Add device again & select it → no more messages.
 |Restart VS Code. +
-Note: All VS Code instances with active SDK must be restarted (shared device connectivity).
+Note: All VS Code instances with active App Designer must be restarted (shared device connectivity).
 
 |No device console output of any selected device
 |No output regardless of device or restarts.

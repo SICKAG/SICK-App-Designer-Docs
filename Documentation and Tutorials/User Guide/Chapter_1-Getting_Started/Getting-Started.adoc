@@ -31,7 +31,7 @@ Ubuntu 22.04 x86_64
 ** *SICK App Designer* also provides emulator functionality, making it possible to emulate a device. This can be used to start software development without the need for a HW device. However, any kind of input data like images must be available as resources in the corresponding app.
 ** The software does not actually replace the real device and features only the emulation of functions. It does not emulate the actual capabilities, such as limited hard drive space, memory or other physical resources
 
-* Optional: https://www.sick.com/de/de/produkte/digitale-dienste-und-software/software/sentio-creator/p/p686849[*SICK Sentio Creator*]
+* Optional: https://www.sick.com/br/en/catalog/products/digital-services-and-software/engineering-tools/sick-creator/c/g622676[*SICK Sentio Creator*]
 ** It is used for managing and installing SAPK packages on programmable devices
 ** Can also be used to upgrade firmware of the connected device and make a backup of the apps as well as configuration of the device
 

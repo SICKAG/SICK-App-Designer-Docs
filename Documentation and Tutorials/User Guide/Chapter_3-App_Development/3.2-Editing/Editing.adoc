@@ -38,7 +38,7 @@ The only necessary resource is the *project.mf.xml* file, which contains all met
 |scripts/|.lua|This folder contains all Lua scripts of the application. Additional Lua files can be created and imported as needed. Also nested folders are supported.
 
 //pages
-|pages/|*|This folder contains the UI definition of an application, see link:https://github.com/SICKAG/SICK-AppSpace-SDK-Docs/tree/SDK-268_Documentation_update/Documentation%20and%20Tutorials/UIBuilder%20Tutorials[UI-Builder documentation] for more details.
+|pages/|*|This folder contains the UI definition of an application, see link:https://github.com/SICKAG/SICK-AppSpace-SDK-Docs/tree/master/Documentation%20and%20Tutorials/UIBuilder%20Tutorials[UI-Builder documentation] for more details.
 
 //flows
 |flows/|.cflow +
