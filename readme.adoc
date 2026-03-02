@@ -1,5 +1,12 @@
 # SICK App Designer Docs
 
+### VS Code Marketplace
+
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sickag.app-designer-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sickag.app-designer-extension-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/sickag.app-designer-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sickag.app-designer-extension-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/sickag.app-designer-extension-pack?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=sickag.app-designer-extension-pack)
+[![Install in VS Code](https://img.shields.io/badge/Install%20in-VS%20Code-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](vscode:extension/sickag.app-designer-extension-pack)
+
 This repository provides documentation and helpful resources for the SICK App Designer.
 
 SICK App Designer is an extension pack published on the Visual Studio Code Marketplace. It provides all extensions that are required to develop apps for programmable devices of the SICK ecosystem.
