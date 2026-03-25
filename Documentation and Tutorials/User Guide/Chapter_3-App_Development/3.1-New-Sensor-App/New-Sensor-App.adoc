@@ -21,7 +21,7 @@ image::media/create-new-project-big-button.png[New Project Big Button]
 image::media/workspace-selection.png[Workspace selection]
 ====
 
-3. Either select `Black app` or `Template app`, depending on whether you want to start from scratch or use a predefined link:https://github.com/SICKAppSpaceCodingStarterKit[CSK] template.
+3. Either select `Blank app` or `Template app`, depending on whether you want to start from scratch or use a predefined link:https://github.com/SICKAppSpaceCodingStarterKit[CSK] template.
 +
 [%collapsible]
 ====
