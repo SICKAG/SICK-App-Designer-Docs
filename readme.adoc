@@ -32,7 +32,7 @@ Windows x64
 
 ## Quick links
 ### Release Notes
-xref:Release%20Notes/SICKAppDesigner1.0.0_Release_Notes.pdf[Latest release notes]
+xref:Release%20Notes/SICKAppDesigner1.0.1_Release_Notes.pdf[Latest release notes]
 
 
 ### SICK App Designer - User Guide
